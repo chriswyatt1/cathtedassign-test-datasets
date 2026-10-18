@@ -1,0 +1,4 @@
+file_id,zip_file,structure_type
+predicted_set1,https://raw.githubusercontent.com/chriswyatt1/cathtedassign-test-datasets/main/prepare_input/predicted_set1.zip,predicted
+predicted_set2,https://raw.githubusercontent.com/chriswyatt1/cathtedassign-test-datasets/main/prepare_input/predicted_set2.zip,predicted
+experimental_set1,https://raw.githubusercontent.com/chriswyatt1/cathtedassign-test-datasets/main/prepare_input/experimental_set1.zip,experimental
